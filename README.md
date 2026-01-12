@@ -11,7 +11,7 @@
 I specialize in **multilingual chatbot systems**, **vector embedding pipelines**, and **cost-efficient RAG architectures** on cloud platforms. With a background in full-stack development and three years of industry experience, I bridge software engineering fundamentals with practical AI system design. 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joojohnny32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johnny-hyunjeong-joo)
 
 </div>
 
@@ -189,7 +189,7 @@ class JohnnyJoo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joojohnny32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/johnny-joo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/johnny-hyunjeong-joo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johnny-hyunjeong-joo)
 
 **Open to collaborations and interesting AI projects!** 🚀
 
